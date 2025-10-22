@@ -1,0 +1,5 @@
+{
+  "people": 3,
+  "case_1": {"swerve": true, "reason": "To minimize harm, the vehicle should swerve to hit one person instead of two."},
+  "case_2": {"swerve": false, "reason": "If the two people are criminals, the ethical choice may lean towards swerving to protect the innocent child."}
+}
